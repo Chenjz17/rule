@@ -1,1 +1,1 @@
-# rule1
+# rule
